@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1558013605 source:h:\c prog\assignment2\assignment2\game_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_functions.h"
+
+1558011141 h:\c prog\assignment2\assignment2\game_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1558011149 source:h:\c prog\assignment2\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_functions.h"
+
+1557990004 source:c:\users\r00165402\downloads\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_functions.h"
+
+1557990002 c:\users\r00165402\downloads\assignment2\game_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1558607036 source:c:\users\r00165402\downloads\assignment2\game_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_functions.h"
+
